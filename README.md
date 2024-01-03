@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm Kinyuy Kelly
  #### I'm a frontend developer and UI/UX designer from Cameroon.
  
-- 🔭 I’m currently working on Frontend development
+- 🔭 I’m currently working on Frontend development.
 - 🌱 I’m currently learning frontend developement with Angular and React.
 - 👯 I'm looking forward to collaborating on as many projects as possible.
 - ⚡  Fun fact: In my free time, I dance, Read and listen to music.
